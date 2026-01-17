@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.odd {
+    background-color: #ed8aa7;
+    font: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.medium-font {
+    font-size: 24px;
+}
+
+#big {
+    color: #3734eb;
+    font-size: 36px;
+}
+
+#greenie {
+    background-color: #87ed9a;
+    font-weight: bold;
+}

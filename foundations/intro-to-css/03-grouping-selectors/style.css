@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+.fake {
+    background-color: black;
+    color: white;
+
+}
+
+.real {
+    background-color: yellow;
+}
+
+.fake,
+.real {
+    font-size: 28px;
+    font: "Helvetica", "Times New Roman", sans-serif;
+}
